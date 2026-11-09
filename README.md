@@ -88,4 +88,4 @@
 
 ## Репозиторий
 
-[Открыть проект на GitHub](https://github.com/Katrinn24/ono-tebe-nado-ad)
+https://github.com/Katrinn24/ono-tebe-nado-ad
